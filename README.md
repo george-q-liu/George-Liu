@@ -2,9 +2,9 @@
 
 - 🔭 **I’m currently looking for full-time engineer job**
 - 📫 How to reach me: [imfing.com](https://imfing.com)
-- ⚡ Fun fact: `mtobeiyf` comes from quote "May The Odds Be Ever In Your Favor" in *The Hunger Games*
+- ⚡ Fun fact:
 
-[![Fing's github stats](https://github-readme-stats.vercel.app/api?username=mtobeiyf&show_icons=true&hide=["contribs","prs"])](https://github.com/george-q-liu)
+[![George's github stats](https://github-readme-stats.vercel.app/api?username=george-q-liu&show_icons=true&hide=["contribs","prs"])](https://github.com/george-q-liu)
 
 <!--
 **mtobeiyf/mtobeiyf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

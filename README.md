@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 **I’m currently looking for full-time engineer job**
-- 📫 How to reach me: [imfing.com](https://imfing.com)
+- 🔭 **?**
+- 📫 How to reach me: []()
 - ⚡ Fun fact:
 
 [![George's github stats](https://github-readme-stats.vercel.app/api?username=george-q-liu&show_icons=true&hide=["contribs","prs"])](https://github.com/george-q-liu)

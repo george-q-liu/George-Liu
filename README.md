@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 **?**
-- 📫 How to reach me: []()
+- 📫 *How to reach me*: []()
 - ⚡ Fun fact:
 
 [![George's github stats](https://github-readme-stats.vercel.app/api?username=george-q-liu&show_icons=true&hide=["contribs","prs"])](https://github.com/george-q-liu)
